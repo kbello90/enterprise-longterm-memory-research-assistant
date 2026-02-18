@@ -1,0 +1,21 @@
+{
+  "user_id": "demo-user",
+  "preferences": {
+    "output_format": "bullets",
+    "tone": "professional",
+    "language": "en+es",
+    "citation_style": "inline",
+    "report_template": "executive_brief_v1"
+  },
+  "recent_episodes": [
+    {
+      "id": "ep_1770802808",
+      "type": "episode",
+      "content": "User asked: Use bullets and bilingual EN/ES executive brief",
+      "created_at": "2026-02-11T03:40:08.540763",
+      "metadata": {
+        "pref_updates": "language,output_format,report_template"
+      }
+    }
+  ]
+}
